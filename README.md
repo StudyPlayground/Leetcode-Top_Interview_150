@@ -1,6 +1,6 @@
 # Leetcode-Top_Interview_150
 
-> Leetcode의 `Top Interview 150` 알고리즘 스터디
+> Leetcode의 [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) 알고리즘 스터디
 
 <br />
 
