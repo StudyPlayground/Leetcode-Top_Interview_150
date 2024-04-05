@@ -7,4 +7,8 @@ assignees: ''
 
 ---
 
+### 이번 회차에 선정한 문제를 남겨주세요
 
+> [예시]    
+> - Merge Sorted Array (Easy)   
+> - Rotate Array (Medium)
