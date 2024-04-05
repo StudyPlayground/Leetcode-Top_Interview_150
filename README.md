@@ -21,4 +21,4 @@
 
 | 회차  | 기간                | 문제목록                                               |
 | ----- | ------------------- | ------------------------------------------------------ |
-| 1회차 | 24.00.00 ~ 24.00.00 | - 분류명 (난이도) 문제명<br />- 분류명 (난이도) 문제명 |
+| 1회차 | 24.04.05 ~ 24.04.11 | - [Array_String] Best Time to Buy and Sell Stock (Easy)<br />- [Array_String] Jump Game (Medium)<br />- [Math] Palindrome Number (Easy)<br />- [Math] Pow(x, n) (Medium) |
