@@ -21,4 +21,5 @@
 
 | 회차  | 기간                | 문제목록                                               |
 | ----- | ------------------- | ------------------------------------------------------ |
-| 1회차 | 24.04.05 ~ 24.04.11 | - [Array_String] Best Time to Buy and Sell Stock (Easy)<br />- [Array_String] Jump Game (Medium)<br />- [Math] Palindrome Number (Easy)<br />- [Math] Pow(x, n) (Medium) |
+| 1회차 | 24.04.05 ~ 24.04.11 | - [Array_String] [Best Time to Buy and Sell Stock (Easy)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)<br />- [Array_String] [Jump Game (Medium)](https://leetcode.com/problems/jump-game/)<br />- [Math] [Palindrome Number (Easy)](https://leetcode.com/problems/palindrome-number/)<br />- [Math] [Pow(x, n) (Medium)](https://leetcode.com/problems/powx-n/) |
+| 2회차 | 24.04.12 ~ 24.04.17 | - [Array_String] [Majority Element (Easy)](https://leetcode.com/problems/majority-element/)<br />- [Array_String] [Jump Game II (Medium)](https://leetcode.com/problems/jump-game-ii/)<br /> |
