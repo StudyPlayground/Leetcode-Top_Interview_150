@@ -12,8 +12,8 @@
 
 > - 파일명은 각 문제명의 폴더 안에 `닉네임`으로 작성합니다.
 >   - 예: max.js
-> - commit은 `난이도-문제명`으로 합니다.
->   - 예: Easy-Merge Sorted Array
+> - commit은 해당 문제의 폴더명으로 작성합니다.
+>   - 예: Jump_Game_(Medium)
 
 <br />
 
