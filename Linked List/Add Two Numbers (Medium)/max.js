@@ -1,3 +1,6 @@
+// 1차 (PASS)
+// 공통 로직 개선
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
